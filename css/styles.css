@@ -303,7 +303,19 @@ button{
 	font-size: 16px;
 }
 
-
+/*Macbook Size*/
+@media screen and (min-width: 1700px){
+	#startSection, #sectionOne, #sectionTwo, #sectionThree, #sectionFour, #sectionFive, #sectionSix, #sectiionSeven {
+	    height: 1050px;
+	}
+	.img-ser {
+	    position: relative;
+	    border-radius: 50%;
+	    width: 250px;
+	    height: 250px;
+	    padding-top: 15%;
+	}
+}
 
 /*Mobile Version Styling*/
 @media screen and (max-width: 768px){
