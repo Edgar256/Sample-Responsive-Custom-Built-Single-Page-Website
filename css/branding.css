@@ -75,23 +75,10 @@ button {
 .center-text {
   text-align: center; }
 
-.section-wrapper {
-  background-color: #f1f2f2;
-  color: #fff;
-  margin: auto;
-  text-align: center;
-  width: 100%;
-  display: inline-block; }
 
 .section-wrapper-inner {
   display: flex; }
 
-.container-two {
-  background-color: #f1f2f2;
-  color: #fff;
-  margin: 0px;
-  text-align: center;
-  width: 100%; }
 
 .container-two-one {
   width: 100%;
